@@ -156,7 +156,7 @@ footer.page, .footer_push {
 /* @group content */
 /* @group blocked */
 #blocked_msg {
-  width: 500px;
+  width: 600px;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
@@ -167,6 +167,9 @@ footer.page, .footer_push {
 
 #blocked_msg img {
   margin: 0 0 20px 0; }
+
+#blocked_msg .center-content {
+  text-align: center; }
 
 /* @end */
 .content_area {
